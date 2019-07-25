@@ -31,6 +31,7 @@ var config = {
     server: {
         baseDir: './assets/build'
     },
+    browser: 'chrome', // Открываем проект в браузере Google Chrome
     notify: false
 };
 
